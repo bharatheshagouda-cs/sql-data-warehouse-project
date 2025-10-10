@@ -7,7 +7,7 @@ This project demonstrates a comprehensive data warehousing and analytics solutio
 ## 🏗️ Data Architecture
 
 The data architecture for this project follows Medallion Architecture **Bronze**, **Silver**, and **Gold** layers:
-![Data Architecture]/image/
+![Data Architecture](docs/data_architecture.png)
 
 1. **Bronze Layer**: Stores raw data as-is from the source systems. Data is ingested from CSV Files into SQL Server Database.
 2. **Silver Layer**: This layer includes data cleansing, standardization, and normalization processes to prepare data for analysis.
@@ -36,7 +36,7 @@ This project involves:
 ## 🛠️ Important Links & Tools:
 
 - **[Datasets](datasets/):** Access to the project dataset (csv files).
-- **[Notion Project Steps](https://thankful-pangolin-2ca.notion.site/SQL-Data-Warehouse-Project-16ed041640ef80489667cfe2f380b269?pvs=4):** Access to All Project Phases and Tasks.
+- **[Notion Project Steps](https://www.notion.so/26ccbdfedd9c80719300d04b1950c6c2?v=26ccbdfedd9c80ccba76000cb2397788&source=copy_link):** Access to All Project Phases and Tasks.
 
 ---
 
