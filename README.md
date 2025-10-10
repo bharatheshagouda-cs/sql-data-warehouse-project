@@ -33,10 +33,9 @@ This project involves:
 
 ---
 
-## 🛠️ Important Links & Tools:
+## 🛠️ Important Links:
 
 - **[Datasets](datasets/):** Access to the project dataset (csv files).
-- **[Notion Project Steps](https://www.notion.so/26ccbdfedd9c80719300d04b1950c6c2?v=26ccbdfedd9c80ccba76000cb2397788&source=copy_link):** Access to All Project Phases and Tasks.
 
 ---
 
