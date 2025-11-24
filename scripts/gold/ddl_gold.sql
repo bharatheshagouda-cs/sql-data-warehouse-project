@@ -12,7 +12,7 @@ Usage:
     - These views can be queried directly for analytics and reporting.
 ===============================================================================
 */
-vhjtd hffh hf
+
 -- =============================================================================
 -- Create Dimension: gold.dim_customers
 --ghjkjfd hfdb hhgd
@@ -20,7 +20,7 @@ vhjtd hffh hf
 IF OBJECT_ID('gold.dim_customers', 'V') IS NOT NULL
     DROP VIEW gold.dim_customers;
 GO
-hvfjjjb vcb vfxg
+
 CREATE VIEW gold.dim_customers AS
 SELECT
     ROW_NUMBER() OVER (ORDER BY cst_id) AS customer_key, -- Surrogate key
